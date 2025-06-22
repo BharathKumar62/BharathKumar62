@@ -1,8 +1,15 @@
 ### Hi there 👋
 I am Bharath Kumar M
 
-Data Analyst
+I’m a Data Analyst with over 6 years of experience in turning raw data into meaningful insights across domains like marketing, finance, and operations.
 
+🔧Technical Proficiencies💻📊
+
+* Languages & Tools: Python (Pandas, NumPy), SQL, Excel, Google Sheets
+* Data Tasks: Data extraction, cleaning, transformation, and visualization
+* Automation: Streamlining workflows using Python and spreadsheet-based automation
+* Analysis & Reporting: Exploratory Data Analysis (EDA), dashboard development, KPI reporting
+* Machine Learning: Hands-on with data preparation, feature engineering, and model development
 <!--
 **BharathKumar62/BharathKumar62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
